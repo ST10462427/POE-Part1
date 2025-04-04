@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Media;
-using System.Threading;
-using static System.Net.Mime.MediaTypeNames;
+
+
 
 namespace CybersecurityAwarenessChatbot
 {
@@ -146,7 +146,7 @@ namespace CybersecurityAwarenessChatbot
                     Console.ResetColor();
                 }
 
-                Thread.Sleep(2000);
+
             }
         }
     }
