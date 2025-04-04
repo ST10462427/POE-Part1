@@ -65,7 +65,7 @@ namespace CybersecurityAwarenessChatbot
             Console.Write("\n");
 
             // Get user's name
-            Console.Write("Hello! What is your name? ");
+            Console.Write("Hello! What is your name ? ");
             Console.ForegroundColor = ConsoleColor.Green;
             string userName = Console.ReadLine();
 
